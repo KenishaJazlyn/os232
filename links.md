@@ -12,3 +12,7 @@ permalink: LINKS/
 3. [Regular Expressions (Regex)](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html) 
    
     This link gives you regex syntax summary, with examples that really helps a lot for beginner
+
+4. [Exporting a Debian Guest] (https://osp4diss.vlsm.org/DebianGuestExportOva.html)
+
+   
