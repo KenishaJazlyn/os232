@@ -22,16 +22,19 @@ ZCZC W02 20 L41 TXT/mylog.txt related.
 ZCZC W02 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W02 15 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 180 L12 Assignment #02
-ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 70 L05 Quiz related including studying
 ZCZC W03 20 L41 TXT/mylog.txt related.
 ZCZC W03 25 L43 TXT/myrank.tex related, including peer review.
-ZCZC W03 35 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W02 15 L06 References/Books/Documents/Browsing/GSGS related 
+ZCZC W03 35 L06 References/Books/Documents/Browsing/GSGS related 
 ZCZC W03 180 L09 Assignment in General
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 20 L41 TXT/mylog.txt related.
-ZCZC W03 15  L43 TXT/myrank.tex related, including peer review.
-ZCZC W03 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 50 L24 Scripting in general.
+ZCZC W04 35 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 180 L09 Assignment in General
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 20 L41 TXT/mylog.txt related.
+ZCZC W04 15  L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 50 L24 Scripting in general.
 
