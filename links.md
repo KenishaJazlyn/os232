@@ -23,4 +23,9 @@ permalink: LINKS/
 
 6. [How to use SCP command to securely transfer file](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 
+7. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)
+This article is about process synchronization in the operating system. This article is very complete, even provided with analogies so readers can understand this topic really well.
+
+8. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)
+Although this video is quite long, it is worth to watch. The speaker explains the topic in a great detail.
 
