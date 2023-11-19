@@ -29,3 +29,9 @@ This article is about process synchronization in the operating system. This arti
 8. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)
 Although this video is quite long, it is worth to watch. The speaker explains the topic in a great detail.
 
+
+9. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/)
+   Official Linux From Scratch Guide. It is really important for this week assignments.
+
+10.[Linux From Scratch](https://id.wikipedia.org/wiki/Linux_From_Scratch)
+   This is a good introduction to understand the concept of Linux From Scratch in Indonesian. I couldn’t find any better materials in Indonesian to explain the basic concepts of Linux From Scratch. I think this might give you a big picture to understand the essentials of Linux From Scratch.
