@@ -35,3 +35,12 @@ Although this video is quite long, it is worth to watch. The speaker explains th
 
 10.[Linux From Scratch](https://id.wikipedia.org/wiki/Linux_From_Scratch)
    This is a good introduction to understand the concept of Linux From Scratch in Indonesian. I couldn’t find any better materials in Indonesian to explain the basic concepts of Linux From Scratch. I think this might give you a big picture to understand the essentials of Linux From Scratch.
+
+
+11.[Linux From Scratch Chap 6](https://riorio805.github.io/os232/NOTES/lfsch6.html)
+   
+
+12. [Linux From Scratch Chap 7](https://riorio805.github.io/os232/NOTES/lfsch7.html)
+
+
+
